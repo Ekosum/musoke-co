@@ -9,9 +9,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html {
-  font: helvetica;
+  font-family: "Times New Roman", Arial, Helvetica;
 }
 
-#header{
-  background-color: red;
+h2{
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
 }
