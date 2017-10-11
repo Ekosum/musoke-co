@@ -8,8 +8,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+img,
+video,
+audio{
+  display: block;
+  max-width: 100%;
+}
+
 html {
-  font-family: "Times New Roman", Arial, Helvetica;
+  font-family: "Times New Roman", Arial, Helvetica, serif;
 }
 
 h2{
